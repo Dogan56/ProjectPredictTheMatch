@@ -3,4 +3,4 @@ fixtür ve hava durumu verisi çekme projemizde projede çekilen verilen geçmi�
 olan hava durumu verileri uygulamayı çalıştırdıkça eğer 2 günden fazla geçtiyse hava durumunu çekiyor.
 kullandığımız kütüphaneler PyQt5, requests_html, requests
 bunun için python 3.9 kullandık 
-İlk tıkladığınızda veriyi çeikiyor ve veri çekildikten sonra arayüz açılıyor.
+İlk tıkladığınızda veriyi çekiyor ve veri çekildikten sonra arayüz açılıyor.
